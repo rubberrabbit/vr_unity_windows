@@ -1,0 +1,49 @@
+Initialize engine version: 5.1.4f1 (36d0f3617432)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Code\SeaVR\bin\SeaVR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Code\SeaVR\bin\SeaVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Code\SeaVR\bin\SeaVR_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.222 seconds
+desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Code\SeaVR\bin\SeaVR_Data\Managed\System.dll (this message is harmless)
+Compositor failed to initialize.
+ 
+(Filename:  Line: 48)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 248)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16bc -> priority: 1 
+  Thread -> id: 11e4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.500456 ms
+HDR and MultisampleAntiAliasing (in Forward Rendering Path) is not supported. This camera will render without HDR buffers. Disable Antialiasing in the Quality settings if you want to use HDR.
+ 
+(Filename:  Line: 2771)
+
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1243.
+Total: 1.137779 ms (FindLiveObjects: 0.055065 ms CreateObjectMapping: 0.022974 ms MarkObjects: 0.901106 ms  DeleteObjects: 0.158268 ms)
+
